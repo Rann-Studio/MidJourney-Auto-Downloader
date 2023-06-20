@@ -6,7 +6,7 @@ MidJourney Auto Downloader adalah program yang dirancang untuk secara otomatis m
 
 Sebelum menggunakan MidJourney Auto Downloader, pastikan persyaratan berikut terpenuhi:
 
--   ImageMagick terinstal di sistem Anda.
+-   [ImageMagick](https://imagemagick.org/script/download.php#windows) terinstal di sistem Anda.
 -   Koneksi internet yang stabil.
 -   Akses ke server Discord MidJourney.
 
