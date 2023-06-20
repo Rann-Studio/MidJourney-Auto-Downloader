@@ -1,4 +1,3 @@
-
 # MidJourney Auto Downloader
 
 MidJourney Auto Downloader adalah program yang dirancang untuk secara otomatis mengunduh gambar terbaru dari server Discord MidJourney dan mengubahnya menjadi ukuran 210%. Program ini hanya dapat dijalankan pada sistem operasi Windows.
