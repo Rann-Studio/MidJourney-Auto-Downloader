@@ -18,7 +18,9 @@ Gunakan langkah-langkah berikut untuk menginstal MidJourney Auto Downloader:
 1.  Buka terminal atau command prompt di Windows.
     
 2.  Jalankan perintah berikut untuk mengkloning repositori dari GitHub:
-```git clone https://github.com/rann-studio/MidJourney-Auto-Downloader.git```
+```shell
+git clone https://github.com/Rann-Studio/MidJourney-Auto-Downloader.git
+```
 
 ## Penggunaan Auto Download
 
